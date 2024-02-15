@@ -1,0 +1,20 @@
+1. List of Text Files in G:/My Drive/Spring 2024/Cloud Computing/Project3/text-files/:
+Limerick-1.txt
+IF.txt
+
+2. Word Count in Each File:
+- Limerick-1.txt: 32 words
+- IF.txt: 287 words
+
+
+3. Grand Total of Words in Both Files:
+- Total: 319 words
+
+4. Top 3 Words in IF.txt:
+- and: 16 times
+- if: 14 times
+- you: 14 times
+
+
+5. IP Address of the Machine:
+- IP Address: 192.168.1.131
